@@ -1,0 +1,22 @@
+{
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "remark": "13.0.0",
+    "remark-gfm": "1.0.0",
+    "remark-html": "13.0.1",
+    "remark-parse": "5.0.0",
+    "unified": "^9.2.1",
+    "vue": "^3.0.5"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^1.2.3",
+    "@vue/compiler-sfc": "^3.0.5",
+    "typescript": "^4.3.2",
+    "vite": "2.3.8"
+  }
+}
